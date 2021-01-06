@@ -3,4 +3,4 @@ calcstats/Include/
 calcstats/Lib/
 calcstats/Scripts/
 calcstats/pyvenv.cfg
-calcstats/calcsite/keys.env
+calcstats/calcsite/.env
